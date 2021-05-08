@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\YenidenC#\ADO.NET\06.05.2021\AdoNet_Giris\AdoNet_Giris\bin\Debug\AdoNet_Giris.exe.config
+C:\Users\User\Desktop\YenidenC#\ADO.NET\06.05.2021\AdoNet_Giris\AdoNet_Giris\bin\Debug\AdoNet_Giris.exe
+C:\Users\User\Desktop\YenidenC#\ADO.NET\06.05.2021\AdoNet_Giris\AdoNet_Giris\bin\Debug\AdoNet_Giris.pdb
+C:\Users\User\Desktop\YenidenC#\ADO.NET\06.05.2021\AdoNet_Giris\AdoNet_Giris\obj\Debug\AdoNet_Giris.Form1.resources
+C:\Users\User\Desktop\YenidenC#\ADO.NET\06.05.2021\AdoNet_Giris\AdoNet_Giris\obj\Debug\AdoNet_Giris.Properties.Resources.resources
+C:\Users\User\Desktop\YenidenC#\ADO.NET\06.05.2021\AdoNet_Giris\AdoNet_Giris\obj\Debug\AdoNet_Giris.csproj.GenerateResource.cache
+C:\Users\User\Desktop\YenidenC#\ADO.NET\06.05.2021\AdoNet_Giris\AdoNet_Giris\obj\Debug\AdoNet_Giris.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\YenidenC#\ADO.NET\06.05.2021\AdoNet_Giris\AdoNet_Giris\obj\Debug\AdoNet_Giris.exe
+C:\Users\User\Desktop\YenidenC#\ADO.NET\06.05.2021\AdoNet_Giris\AdoNet_Giris\obj\Debug\AdoNet_Giris.pdb
+C:\Users\User\Desktop\YenidenC#\ADO.NET\06.05.2021\AdoNet_Giris\AdoNet_Giris\obj\Debug\AdoNet_Giris.Kategoriler.resources
+C:\Users\User\Desktop\YenidenC#\ADO.NET\06.05.2021\AdoNet_Giris\AdoNet_Giris\obj\Debug\AdoNet_Giris.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\YenidenC#\ADO.NET\06.05.2021\AdoNet_Giris\AdoNet_Giris\obj\Debug\AdoNet_Giris.KategorilerYeni.resources
